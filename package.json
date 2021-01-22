@@ -1,0 +1,18 @@
+{
+  "name": "rollup-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/cj/main.js",
+  "module": "dist/es/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-multi-entry": "^4.0.0"
+  },
+  "dependencies": {
+    "rollup": "^2.37.1"
+  }
+}
